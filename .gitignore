@@ -1,0 +1,21 @@
+# Ignore Unreal Engine binaries and intermediates
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio files
+.vs/
+*.vcxproj*
+*.sln
+*.user
+*.opensdf
+*.sdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
